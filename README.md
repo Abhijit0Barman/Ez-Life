@@ -22,13 +22,14 @@ Api_url: https://hulking-income-7436.onrender.com/
 
 
 
+
 <div align="center">
 <h3 align="left">👷Contributors :</h3>
- ![IMG_20230124_171505](https://github.com/Abhijit0Barman/hulking-income-7436/assets/113384779/019d6f77-b474-4ff5-ae97-752de94267f1)
+ 
 
-![IMG_20230124_171505](https://github.com/Abhijit0Barman/hulking-income-7436/assets/113384779/8ac20fc4-2eef-4c03-9993-a44988a46b2f)
 
-        ⦿ [Abhijit Barman](https://github.com/Abhijit0Barman)  
+  
+>  ⦿ [Anburaj S](https://github.com/Anburaj07)        ![Abhijit - Copy](https://github.com/Anburaj07/vogue-pocket-8479/assets/118152296/3d67baa2-3855-44e9-859a-f5cf120e27a3)⦿ [Abhijit Barman](https://github.com/Abhijit0Barman)    ![Piyush](https://user-images.githubusercontent.com/118152296/237017919-8398c051-aa6f-4cdf-9a45-c7cc854d5e63.png)  ⦿ [Piyush Sharma](https://github.com/pspiyush130)
 
 </div>
 
