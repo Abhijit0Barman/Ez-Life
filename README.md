@@ -29,7 +29,7 @@ Api_url: https://hulking-income-7436.onrender.com/
 
 
   
->  ⦿ [Anburaj S](https://github.com/Anburaj07)        ![Abhijit - Copy](https://github.com/Anburaj07/vogue-pocket-8479/assets/118152296/3d67baa2-3855-44e9-859a-f5cf120e27a3)⦿ [Abhijit Barman](https://github.com/Abhijit0Barman)    ![Piyush](https://user-images.githubusercontent.com/118152296/237017919-8398c051-aa6f-4cdf-9a45-c7cc854d5e63.png)  ⦿ [Piyush Sharma](https://github.com/pspiyush130)
+>       ![Abhijit - Copy](https://github.com/Anburaj07/vogue-pocket-8479/assets/118152296/3d67baa2-3855-44e9-859a-f5cf120e27a3)⦿ [Abhijit Barman](https://github.com/Abhijit0Barman)    !
 
 </div>
 
