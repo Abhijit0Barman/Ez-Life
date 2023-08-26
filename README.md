@@ -91,6 +91,7 @@ This project might ( and certainly does ) have bugs, vulnerabilities, or other i
 ## Tech Stack 🛠
 ![ts-logo](https://github.com/Abhijit0Barman/hulking-income-7436/assets/113384779/59352def-543c-4438-95fc-ebb01b1aa615)
 
+https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true
 ##
 ## ScreenShots 📷
 <h4>» Index Page </h4>
