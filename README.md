@@ -89,7 +89,7 @@ This project might ( and certainly does ) have bugs, vulnerabilities, or other i
 
 
 ## Tech Stack 🛠
-![cover](https://user-images.githubusercontent.com/118152296/236819635-30b75b4a-c991-4060-a7f8-90a1da8fa728.jpg)
+![ts-logo](https://github.com/Abhijit0Barman/hulking-income-7436/assets/113384779/59352def-543c-4438-95fc-ebb01b1aa615)
 
 ##
 ## ScreenShots 📷
