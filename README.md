@@ -35,10 +35,6 @@ Api_url: https://hulking-income-7436.onrender.com/
 
  <h3>logo :"EZ"</h3>
 
- 
-![logo](https://raw.githubusercontent.com/Abhijit0Barman/hulking-income-7436/main/public/favicon.ico?token=GHSAT0AAAAAACBGTKO2N2ADYSXLHWN4ICEMZHKIE7A))
-
-
 ![logo](https://github.com/Abhijit0Barman/hulking-income-7436/assets/113384779/a7d6e8fc-f486-41b3-a74e-ce5cad8307a3)
 
 
