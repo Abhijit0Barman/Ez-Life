@@ -22,15 +22,11 @@ Api_url: https://hulking-income-7436.onrender.com/
 
 
 
-
 <div align="center">
 <h3 align="left">👷Contributors :</h3>
  
 
-
-  
->    
-![Abhijit]([https://avatars.githubusercontent.com/u/113384779?s=400&u=2213e2581c534bc20c019e777c57e1a379ca66ab&v=4])⦿ [Abhijit Barman](https://github.com/Abhijit0Barman) 
+ ![Abhijit - Copy](https://github.com/Anburaj07/vogue-pocket-8479/assets/118152296/3d67baa2-3855-44e9-859a-f5cf120e27a3)⦿ [Abhijit Barman](https://github.com/Abhijit0Barman)    
 </div>
 
 ##
