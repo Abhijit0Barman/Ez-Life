@@ -14,13 +14,18 @@ import {
   DrawerContent,
   DrawerCloseButton,
   DrawerHeader,
-  DrawerBody
+  DrawerBody,
+  Spacer
 } from '@chakra-ui/react';
 import { HamburgerIcon } from '@chakra-ui/icons';
 import { Link as ReactRouterLink } from 'react-router-dom';
+import { useContext } from 'react';
+import { AuthContext } from '../context/AuthContextProvider';
 
 export const Navbar = () => {
   const [isDrawerOpen, setIsDrawerOpen] = useState(false);
+
+  const { isAuth, name } = useContext(AuthContext)
 
   const toggleDrawer = () => {
     setIsDrawerOpen(!isDrawerOpen);
@@ -29,22 +34,23 @@ export const Navbar = () => {
   return (
     <>
       <Flex minWidth='max-content' bg="teal.400" align='center' p={4} justify="space-between">
-          <Image
-            borderRadius='full'
-            boxSize='50px'
-            src='favicon.ico'
-            alt='logo'
-          />
-        <Box p='2' style={{marginLeft:"-1400px"}}>
-          <Heading size='lg'>EZ</Heading>
+        <Image
+          borderRadius='full'
+          boxSize='50px'
+          src='favicon.ico'
+          alt='logo'
+        />
+        <Box p='2' style={{ marginLeft: "" }}>
+          <Heading size='lg'>{isAuth ? name : "USER"}</Heading>
         </Box>
+        <Spacer />
         <HStack spacing={6} display={{ base: 'none', md: 'flex' }}>
           <Link as={ReactRouterLink} to={`/`}>HOME</Link>
           <Link as={ReactRouterLink} to={`/login`}>LOGIN</Link>
           <Link as={ReactRouterLink} to={`/dashboard`}>DASHBOARD</Link>
           <ButtonGroup gap='2'>
-            <Button colorScheme='teal'>Sign Up</Button>
-            <Button colorScheme='teal'>Log in</Button>
+            {/* <Button colorScheme='teal'>Sign Up</Button> */}
+            {/* <Button colorScheme='teal' onClick={}>Log in</Button> */}
           </ButtonGroup>
         </HStack>
         <IconButton

@@ -80,7 +80,7 @@ export const Home = () => {
       </Select>
       {/* Display the fetched data */}
 
-      <SimpleGrid columns={[1, 1, 2, 3, 4,5]} spacingX='30px' spacingY='20px' 
+      <SimpleGrid columns={[1, 1, 2, 3, 4]} spacingX='20px' spacingY='20px' 
       style={{ border: "1px solid white", padding: "2rem" ,
       }}>
         {data.map(item => (
