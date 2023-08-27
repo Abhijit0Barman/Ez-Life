@@ -1,13 +1,14 @@
 import React, { useState, useContext } from 'react';
 import { useNavigate } from 'react-router-dom';
-// import { Navigate } from 'react-router-dom';
+import { Navigate } from 'react-router-dom';
 import {
   Flex,
   Box,
   Button,
   FormControl,
   FormLabel,
-  Input
+  Input,
+  useToast 
 } from '@chakra-ui/react';
 import axios from 'axios';
 import { AuthContext } from '../context/AuthContextProvider';
@@ -17,6 +18,7 @@ export const Login = () => {
   const [password, setPassword] = useState('');
 
   const navigate = useNavigate()
+  const toast=useToast()
   const { login, logout, isAuth, setIsAuth } = useContext(AuthContext)
 
   const handleLogin = (e) => {
@@ -35,6 +37,13 @@ export const Login = () => {
             login(logindata.username)
             // console.log(username);
             // setIsAuth(true)
+            toast({
+              title: `${logindata.username}`,
+              description: "You are success fully login",
+              status: 'success',
+              duration: 3000,
+              isClosable: true,
+            })
             navigate(`/`)
           }
           // console.log(res?.data)
@@ -69,9 +78,9 @@ export const Login = () => {
   }
 
 
-  // if(isAuth){
-  //   return <Navigate to="/"/>
-  // }
+  if(isAuth){
+    return <Navigate to="/"/>
+  }
 
   return (
     <Flex align="center" justify="center" minH="100vh">
