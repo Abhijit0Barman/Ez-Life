@@ -97,27 +97,18 @@ This project might ( and certainly does ) have bugs, vulnerabilities, or other i
 ## ScreenShots 📷
 <h4>» Index Page </h4>
 
+![2023-08-28 03 25 59](https://github.com/Abhijit0Barman/hulking-income-7436/assets/113384779/fe5d1a13-bd0f-483a-bce0-4bc1a760bb5b)
 
-![WhatsApp Image 2023-06-17 at 6 59 31 PM](https://github.com/Anburaj07/vogue-pocket-8479/assets/118152296/c12e4f85-1b8f-4dde-ac89-e6b86fe6345a)
+![2023-08-28 03 26 26](https://github.com/Abhijit0Barman/hulking-income-7436/assets/113384779/e935f7c1-ba07-4691-b7ca-53633ec4dc04)
 
- 
- <h4>» User Pacakages Page </h4>
- 
- ![WhatsApp Image 2023-06-17 at 6 59 32 PM](https://github.com/Anburaj07/vogue-pocket-8479/assets/118152296/6071a730-d4c5-4c32-8bf6-cc3294859302)
+![2023-08-28 03 27 23](https://github.com/Abhijit0Barman/hulking-income-7436/assets/113384779/47ad17f0-794e-46d3-8365-dc52d580c3ce)
 
+ ![Screenshot 2023-08-28 032842](https://github.com/Abhijit0Barman/hulking-income-7436/assets/113384779/e6e08da5-f117-4b90-a5a1-77a247b0c2c9)
 
- 
-   <h4>» User Destination </h4>
-  
-![WhatsApp Image 2023-06-17 at 6 59 33 PM](https://github.com/Anburaj07/vogue-pocket-8479/assets/118152296/190adb1a-a545-415f-a30b-5fb430e647c7)
+![Screenshot 2023-08-28 032917](https://github.com/Abhijit0Barman/hulking-income-7436/assets/113384779/35d0ddd5-2be6-4ec5-9363-a1de0d365a24)
 
+ ![2023-08-28 03 25 29](https://github.com/Abhijit0Barman/hulking-income-7436/assets/113384779/df97d2d3-4074-40ff-ac10-9cd2d10d5fc0)
 
- <h4>» Admin Deshboard </h4>
- 
- 
- ![adminff](https://github.com/Anburaj07/vogue-pocket-8479/assets/118152296/4965ecc4-efca-4d56-bfc8-4d8e1efa0aef)
-
- 
  ##
    
 
