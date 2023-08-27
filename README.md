@@ -42,7 +42,7 @@ Api_url: https://hulking-income-7436.onrender.com/
  
 
  
- ## 🌐 Deployed Link : 
+ ## 🌐 Deployed Link : https://hulking-income-7436.vercel.app/
  
 
  </div>
