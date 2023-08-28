@@ -11,10 +11,12 @@ import {
   Center
 } from '@chakra-ui/react'
 import { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
+
 
 export const CardItem = ({ image, title, description, price, duration, destination, tour }) => {
   const [isOpen, setIsOpen] = useState(false);
-
+  const nav = useNavigate()
   const toggleModal = () => {
     setIsOpen(!isOpen);
   };
@@ -56,7 +58,10 @@ export const CardItem = ({ image, title, description, price, duration, destinati
 
 
           </ModalBody>
-          <ModalFooter>
+          <ModalFooter justifyContent='space-between' mx="1rem">
+            <Button colorScheme="blue" mr={3} onClick={()=>nav(`/cart`)}>
+              Buy Deal Now
+            </Button>
             <Button colorScheme="blue" mr={3} onClick={toggleModal}>
               Close
             </Button>

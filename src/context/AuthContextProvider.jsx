@@ -4,7 +4,7 @@ import { Navigate } from 'react-router-dom'
 export const AuthContext = createContext()
 
 export const AuthContextProvider = ({ children }) => {
-  const [isAuth, setIsAuth] = useState(false)
+  const [isAuth, setIsAuth] = useState(false) // default value false
   const [name, setName] = useState("user")
 
   const login = (name) => {

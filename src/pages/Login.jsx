@@ -8,7 +8,7 @@ import {
   FormControl,
   FormLabel,
   Input,
-  useToast 
+  useToast
 } from '@chakra-ui/react';
 import axios from 'axios';
 import { AuthContext } from '../context/AuthContextProvider';
@@ -18,7 +18,7 @@ export const Login = () => {
   const [password, setPassword] = useState('');
 
   const navigate = useNavigate()
-  const toast=useToast()
+  const toast = useToast()
   const { login, logout, isAuth, setIsAuth } = useContext(AuthContext)
 
   const handleLogin = (e) => {
@@ -41,7 +41,7 @@ export const Login = () => {
               title: `${logindata.username}`,
               description: "You are success fully login",
               status: 'success',
-              duration: 3000,
+              duration: 5000,
               isClosable: true,
             })
             navigate(`/`)
@@ -78,8 +78,8 @@ export const Login = () => {
   }
 
 
-  if(isAuth){
-    return <Navigate to="/"/>
+  if (isAuth) {
+    return <Navigate to="/" />
   }
 
   return (
